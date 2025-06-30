@@ -20,7 +20,7 @@
   .contenedor {
     width: 700px;
     min-height: 400px;
-    -webkit-backdrop-filter: blur(3px) grayscale(50%);
+    backdrop-filter: blur(3px) grayscale(50%);
     background-color: #d1189328;
     padding: 40px;
     border: 1px solid #d11893bd;
